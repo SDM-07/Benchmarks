@@ -1,4 +1,5 @@
 ﻿using BenchmarkDotNet.Running;
-using Benchmarks.ArrayLoops;
+using Benchmarks.ListLoops;
 
-BenchmarkRunner.Run<ArrayLoops>();
+// BenchmarkRunner.Run<ArrayLoops>();
+// BenchmarkRunner.Run<ListLoops>();
